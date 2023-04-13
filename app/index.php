@@ -1,3 +1,3 @@
 <?php
-    echo 'Hello World!';
-?>
+include('app/models/repository/UserRepository.php');
+echo 'Hello World!';
